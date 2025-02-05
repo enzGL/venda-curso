@@ -1,1 +1,1 @@
-// alert('isso é javascript')
+document.getElementById("som").play()
