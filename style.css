@@ -109,9 +109,11 @@ body{
 	font-family: "Nunito";
 	font-weight: 300;
 	margin-bottom: 10px;
+	box-sizing: border-box;
 }
 .campo-label{
 	font-weight: 400;
 	display: block;
 	font-family: "Nunito";
+	text-align: left;
 }
